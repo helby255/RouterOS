@@ -1,0 +1,2 @@
+/tool fetch url="https://api.telegram.org/bot###/sendPhoto\?chat_id=###" http-method=post http-header-field="content-type:photo" http-data="http://example.gif" keep-result=no
+# отправлять можно только файлы из сети.

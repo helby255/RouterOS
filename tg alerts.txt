@@ -1,0 +1,1 @@
+/tool fetch url="https://api.telegram.org/bot<ID>/sendMessage?chat_id=<IDChat>&text=mytext"
